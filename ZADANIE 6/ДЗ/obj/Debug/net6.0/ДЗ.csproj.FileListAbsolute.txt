@@ -1,0 +1,42 @@
+C:\Users\vlada\source\repos\ДЗ\ДЗ\bin\Debug\net6.0\ДЗ.exe
+C:\Users\vlada\source\repos\ДЗ\ДЗ\bin\Debug\net6.0\ДЗ.deps.json
+C:\Users\vlada\source\repos\ДЗ\ДЗ\bin\Debug\net6.0\ДЗ.runtimeconfig.json
+C:\Users\vlada\source\repos\ДЗ\ДЗ\bin\Debug\net6.0\ДЗ.dll
+C:\Users\vlada\source\repos\ДЗ\ДЗ\bin\Debug\net6.0\ДЗ.pdb
+C:\Users\vlada\source\repos\ДЗ\ДЗ\obj\Debug\net6.0\ДЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlada\source\repos\ДЗ\ДЗ\obj\Debug\net6.0\ДЗ.AssemblyInfoInputs.cache
+C:\Users\vlada\source\repos\ДЗ\ДЗ\obj\Debug\net6.0\ДЗ.AssemblyInfo.cs
+C:\Users\vlada\source\repos\ДЗ\ДЗ\obj\Debug\net6.0\ДЗ.csproj.CoreCompileInputs.cache
+C:\Users\vlada\source\repos\ДЗ\ДЗ\obj\Debug\net6.0\ДЗ.dll
+C:\Users\vlada\source\repos\ДЗ\ДЗ\obj\Debug\net6.0\refint\ДЗ.dll
+C:\Users\vlada\source\repos\ДЗ\ДЗ\obj\Debug\net6.0\ДЗ.pdb
+C:\Users\vlada\source\repos\ДЗ\ДЗ\obj\Debug\net6.0\ДЗ.genruntimeconfig.cache
+C:\Users\vlada\source\repos\ДЗ\ДЗ\obj\Debug\net6.0\ref\ДЗ.dll
+C:\Users\vlada\source\repos\ZADANIE 5\ДЗ\bin\Debug\net6.0\ДЗ.exe
+C:\Users\vlada\source\repos\ZADANIE 5\ДЗ\bin\Debug\net6.0\ДЗ.deps.json
+C:\Users\vlada\source\repos\ZADANIE 5\ДЗ\bin\Debug\net6.0\ДЗ.runtimeconfig.json
+C:\Users\vlada\source\repos\ZADANIE 5\ДЗ\bin\Debug\net6.0\ДЗ.dll
+C:\Users\vlada\source\repos\ZADANIE 5\ДЗ\bin\Debug\net6.0\ДЗ.pdb
+C:\Users\vlada\source\repos\ZADANIE 5\ДЗ\obj\Debug\net6.0\ДЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlada\source\repos\ZADANIE 5\ДЗ\obj\Debug\net6.0\ДЗ.AssemblyInfoInputs.cache
+C:\Users\vlada\source\repos\ZADANIE 5\ДЗ\obj\Debug\net6.0\ДЗ.AssemblyInfo.cs
+C:\Users\vlada\source\repos\ZADANIE 5\ДЗ\obj\Debug\net6.0\ДЗ.csproj.CoreCompileInputs.cache
+C:\Users\vlada\source\repos\ZADANIE 5\ДЗ\obj\Debug\net6.0\ДЗ.dll
+C:\Users\vlada\source\repos\ZADANIE 5\ДЗ\obj\Debug\net6.0\refint\ДЗ.dll
+C:\Users\vlada\source\repos\ZADANIE 5\ДЗ\obj\Debug\net6.0\ДЗ.pdb
+C:\Users\vlada\source\repos\ZADANIE 5\ДЗ\obj\Debug\net6.0\ДЗ.genruntimeconfig.cache
+C:\Users\vlada\source\repos\ZADANIE 5\ДЗ\obj\Debug\net6.0\ref\ДЗ.dll
+C:\Users\vlada\source\repos\ZADANIE 6\ДЗ\obj\Debug\net6.0\ДЗ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vlada\source\repos\ZADANIE 6\ДЗ\obj\Debug\net6.0\ДЗ.AssemblyInfoInputs.cache
+C:\Users\vlada\source\repos\ZADANIE 6\ДЗ\obj\Debug\net6.0\ДЗ.AssemblyInfo.cs
+C:\Users\vlada\source\repos\ZADANIE 6\ДЗ\obj\Debug\net6.0\ДЗ.csproj.CoreCompileInputs.cache
+C:\Users\vlada\source\repos\ZADANIE 6\ДЗ\obj\Debug\net6.0\ДЗ.dll
+C:\Users\vlada\source\repos\ZADANIE 6\ДЗ\obj\Debug\net6.0\refint\ДЗ.dll
+C:\Users\vlada\source\repos\ZADANIE 6\ДЗ\obj\Debug\net6.0\ДЗ.pdb
+C:\Users\vlada\source\repos\ZADANIE 6\ДЗ\bin\Debug\net6.0\ДЗ.exe
+C:\Users\vlada\source\repos\ZADANIE 6\ДЗ\bin\Debug\net6.0\ДЗ.deps.json
+C:\Users\vlada\source\repos\ZADANIE 6\ДЗ\bin\Debug\net6.0\ДЗ.runtimeconfig.json
+C:\Users\vlada\source\repos\ZADANIE 6\ДЗ\bin\Debug\net6.0\ДЗ.dll
+C:\Users\vlada\source\repos\ZADANIE 6\ДЗ\bin\Debug\net6.0\ДЗ.pdb
+C:\Users\vlada\source\repos\ZADANIE 6\ДЗ\obj\Debug\net6.0\ДЗ.genruntimeconfig.cache
+C:\Users\vlada\source\repos\ZADANIE 6\ДЗ\obj\Debug\net6.0\ref\ДЗ.dll
